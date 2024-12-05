@@ -23,16 +23,4 @@ This project demonstrates how to create a secure **Virtual Private Cloud (VPC)**
 4. Launch EC2 instances in both subnets and connect to the private instance via the public instance.
 5. Test internet connectivity from the private instance using the NAT Gateway.
 
-### Screenshots
-#### Custom VPC and Subnets
-![Custom VPC](screenshots/custom_vpc.png)
-
-#### NAT Gateway
-![NAT Gateway](screenshots/nat_gateway.png)
-
-#### Internet Gateway
-![Internet Gateway](screenshots/internet_gateway.png)
-
-#### Successful Ping Test
-![Ping Test](screenshots/ping_test.png)
 
